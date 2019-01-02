@@ -1,0 +1,13 @@
+"pool_list": [
+    {
+        "pool_address": "149.202.64.59:5008",
+        "wallet_address": "jY4cguwCxycHZN4QAybw5k4GKxymBQTPqGiFfianFRNr6b8BiFSbVWF5wneab8pXAd43GHqRU6r7HLYLpDWHemnd1mVATHdxB.25000",
+        "rig_id": "x2",
+        "pool_password": "x",
+        "use_nicehash": false,
+        "use_tls": false, /* Set to true if you are using an SSL port */
+        "tls_fingerprint": "",
+        "pool_weight": 1
+    },
+],
+"currency": "cryptonight_v8",
