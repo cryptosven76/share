@@ -1,7 +1,7 @@
 "pool_list": [
     {
-        "pool_address": "149.202.64.59:5006",
-        "wallet_address": "jY4cguwCxycHZN4QAybw5k4GKxymBQTPqGiFfianFRNr6b8BiFSbVWF5wneab8pXAd43GHqRU6r7HLYLpDWHemnd1mVATHdxB.1000",
+        "pool_address": "206.189.15.3:5564",
+        "wallet_address": "darkgzi5mKbMgk5AD94nwiKux2DcKdxemWKuoB6YeCYLEhYRC4VVeA7MDY2T5FtmDj1or7pSyTHdr9TmkVVsj36F7jn7vQnNy5+25000",
         "rig_id": "x",
         "pool_password": "x",
         "use_nicehash": false,
@@ -10,5 +10,5 @@
         "pool_weight": 1
     },
 ],
-"currency": "cryptonight_v8",
+"currency": "cryptonight_lite_v7",
 
