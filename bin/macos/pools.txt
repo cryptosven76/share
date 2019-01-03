@@ -1,7 +1,7 @@
 "pool_list": [
     {
         "pool_address": "206.189.15.3:5564",
-        "wallet_address": "darkgzi5mKbMgk5AD94nwiKux2DcKdxemWKuoB6YeCYLEhYRC4VVeA7MDY2T5FtmDj1or7pSyTHdr9TmkVVsj36F7jn7vQnNy5+25000",
+        "wallet_address": "darkgzi5mKbMgk5AD94nwiKux2DcKdxemWKuoB6YeCYLEhYRC4VVeA7MDY2T5FtmDj1or7pSyTHdr9TmkVVsj36F7jn7vQnNy5.1000",
         "rig_id": "x",
         "pool_password": "x",
         "use_nicehash": false,
